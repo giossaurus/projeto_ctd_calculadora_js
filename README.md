@@ -1,2 +1,2 @@
-# projeto_ctd_calcuiladora_js
+# projeto_ctd_calculadora_js
  
