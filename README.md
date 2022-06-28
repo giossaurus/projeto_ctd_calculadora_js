@@ -1,4 +1,4 @@
-![readme img](https://github.com/giossaurus/)
+![readme img](https://github.com/giossaurus/projeto_ctd_calculadora_js/blob/main/Calculadora%20Javascript%20readme.png)
 <br>
 
 
